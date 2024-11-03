@@ -199,3 +199,36 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kurdistan</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Willkommen in Kurdistan</h1>
+        <p>Eine kurze Einführung über die Kultur, die Geschichte und die Schönheit Kurdistans.</p>
+    </header>
+    <main>
+        <section>
+            <h2>Über Kurdistan</h2>
+            <p>Kurdistan ist eine Region im Nahen Osten, die die Heimat der Kurden ist.</p>
+        </section>
+        <section>
+            <h2>Sehenswürdigkeiten</h2>
+            <ul>
+                <li>Die Berge von Qandil</li>
+                <li>Die Stadt Erbil</li>
+                <li>Die Ruinen von Ninive</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Kurdistan Projekt</p>
+    </footer>
+</body>
+</html>
+
